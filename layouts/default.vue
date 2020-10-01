@@ -3,6 +3,7 @@
 
         <header class="main-header">
             <Logo />
+            Test Commit
         </header>
 
         <Nuxt />
