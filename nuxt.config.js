@@ -44,5 +44,10 @@ export default {
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {
+  },
+
+  // Handles 404 errors on Netlify
+  generate: {
+    fallback: true
   }
 }
